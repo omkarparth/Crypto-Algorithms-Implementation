@@ -5,8 +5,8 @@ Refer https://github.com/omkarparth/Crypto-Algorithms-Implementation/blob/master
 Readme
 
 To execute the above crypto java program follow the instructions below:
-1. Clone the above repository using command: "git clone https://github.com/omkarparth/Crypto-Algorithms-Implementation.git".
-2. Change directory and goto the cloned directory.
+1. Clone the above repository using command: "git clone https://github.com/omkarparth/Crypto-Algorithms-Implementation.git"
+2. Change directory and goto the cloned directory: "cd Crypto-Algorithms-Implementation/"
 3. Execute the test program jar file using the command: "java -jar ./cryptotest.jar [file_name]"
 
 The jar file basically tests the performance of the above mentioned crypto algorithms by executing each algorithm numerous times as specified below and calculates the mean and median for each algorithm.
