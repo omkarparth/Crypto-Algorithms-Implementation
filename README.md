@@ -1,4 +1,4 @@
-# Java-Crypto-Program
+# Crypto-Algorithms-Implementation
 Developed a Java crypto program to encrypt/decrypt (using AES-128, AES-256, RSA-1024, RSA-4096), sign (using SHA-256 and RSA-4096) and HMAC (using MD5, SHA1, SHA-256) a file using the javax.crypto libraries. 
 Refer https://github.com/omkarparth/Crypto-Algorithms-Implementation/blob/master/CNS_assignment_2_Report.pdf to view a test report specifying the testbed details and comparing the performance of the above specified crypto algorithms.
 
